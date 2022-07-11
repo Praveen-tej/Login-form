@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
 body {
     background:url("/images/image1.png") no-repeat center;
     background-size: 1000px;
     background-color: black;
-    padding-top: 150px;
+     padding-top: 150px; 
 
 }
 
@@ -34,8 +34,9 @@ body {
     opacity: 0.7;
     width:30%;
     margin-left: 700px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     padding: 10px 0 10px 0px;
+    margin-right: 25px;
 }
 
 .c1 {
@@ -62,12 +63,16 @@ p {
 }
 
 .p1 {
-    font-size: 20px;
-    text-underline-offset: 10px;
-    text-decoration: underline;
+    font-size: 40px; 
+    text-underline-offset: 8px;
+    text-decoration: underline 3px;
     font-weight: 500;
     margin-left: 28px;
-    font-weight: 400;
+    font-weight: 400px;
+    font-family: 'Iceland', cursive;
+     /* -webkit-text-stroke: 0.2px #000;  */
+     color: #fff;
+     text-shadow:#273c42;
 }
 
 .form {
@@ -82,4 +87,7 @@ p {
     color: white;
     /* padding-left:8px; */
 }
+.heading{
 
+    font-size:18px;
+}
