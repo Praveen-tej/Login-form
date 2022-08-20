@@ -1,93 +1,93 @@
- @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
- body {
-     background: url("/images/image1.png") no-repeat center;
-     background-size: 1000px;
-     background-color: black;
-     padding-top: 150px;
- }
+body {
+    background: url("/images/image1.png") no-repeat center;
+    background-size: 1000px;
+    background-color: black;
+    padding-top: 150px;
+}
 
- .form {
-     /* background-color: gray; */
-     border-radius: 15px;
-     background-image: linear-gradient(to right, #50636a, #273c42);
-     opacity: 0.7;
-     width: 30%;
-     margin-left: 700px;
-     margin-bottom: 150px;
-     padding: 10px 0 10px 0px;
-     margin-right: 25px;
- }
+.form {
+    /* background-color: gray; */
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #50636a, #273c42);
+    opacity: 0.7;
+    width: 30%;
+    margin-left: 700px;
+    margin-bottom: 150px;
+    padding: 10px 0 10px 0px;
+    margin-right: 25px;
+}
 
- .heading {
-     font-size: 40px;
-     text-underline-offset: 8px;
-     text-decoration: underline 3px;
-     font-weight: 500;
-     margin-left: 28px;
-     font-weight: 400px;
-     font-family: 'Iceland', cursive;
-     color: #fff;
-     text-shadow: #273c42;
- }
+.heading {
+    font-size: 40px;
+    text-underline-offset: 8px;
+    text-decoration: underline 3px;
+    font-weight: 500;
+    margin-left: 28px;
+    font-weight: 400px;
+    font-family: 'Iceland', cursive;
+    color: #fff;
+    text-shadow: #273c42;
+}
 
- .subHeading {
-     font-family: 'Montserrat', sans-serif;
-     color: azure;
-     margin-left: 27px;
-     font-size: 18px;
-     padding-top: 25px;
- }
+.subHeading {
+    font-family: 'Montserrat', sans-serif;
+    color: azure;
+    margin-left: 27px;
+    font-size: 18px;
+    padding-top: 25px;
+}
 
- .form label {
-     display: block;
-     margin-left: 35px;
-     color: azure;
-     padding-bottom: 5px;
-     padding-left: 5px;
-     padding-top: 15px;
- }
+.form label {
+    display: block;
+    margin-left: 35px;
+    color: azure;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 15px;
+}
 
- .form input {
-     border-radius: 5px;
-     width: 78%;
-     height: 30px;
-     margin-left: 35px;
-     background-image: linear-gradient(to right, #50636a, #273c42);
-     color: white;
-     padding-left: 10px;
-     border: 0.1px solid white;
- }
+.form input {
+    border-radius: 5px;
+    width: 78%;
+    height: 30px;
+    margin-left: 35px;
+    background-image: linear-gradient(to right, #50636a, #273c42);
+    color: white;
+    padding-left: 10px;
+    border: 0.1px solid white;
+}
 
- ::placeholder {
-     color: white;
- }
+::placeholder {
+    color: white;
+}
 
- .request {
-     text-align: end;
-     color: #fff;
-     font-family: 'Montserrat', sans-serif;
-     font-size: small;
-     padding: 15px 0 23px 0;
- }
+.request {
+    text-align:end;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+    padding: 15px 0 23px 0;
+}
 
- button {
-     width: 80%;
-     height: 38px;
-     margin-left: 29px;
-     border-radius: 7px;
-     background-color: #A5D9D0;
-     font-weight: 600;
-     margin-left: 29px;
-     border: none;
-     margin-right: 23px;
-     padding-top: 7px;
-     text-align: center;
- }
+button {
+    width: 80%;
+    height: 38px;
+    margin-left: 29px;
+    border-radius: 7px;
+    background-color: #A5D9D0;
+    font-weight: 600;
+    margin-left: 29px;
+    border: none;
+    margin-right: 23px;
+    padding-top: 7px;
+    text-align: center;
+}
 
- .statement {
-     text-align: center;
-     color: #fff;
-     font-family: 'Montserrat', sans-serif;
-     padding-top: 25px;
- }
+.statement {
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 25px;
+}
