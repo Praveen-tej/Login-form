@@ -2,7 +2,7 @@
 
 body {
     background: url("/images/image1.png") no-repeat center;
-    background-size: 1000px;
+    background-size: 1100px;
     background-color: black;
     padding-top: 150px;
 }
@@ -13,7 +13,7 @@ body {
     background-image: linear-gradient(to right, #50636a, #273c42);
     opacity: 0.7;
     width: 30%;
-    margin-left: 701px;
+    margin-left: 770px;
     margin-bottom: 150px;
     padding: 10px 0 10px 0px;
     margin-right: 25px;
